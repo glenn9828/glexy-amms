@@ -1,3 +1,10 @@
+GLEXY - AMMS
+
+ANGOTA KELOMPOK
+1) 
+2)
+3)
+
 ##How to start##
 
 1) Execute syntax below in your PostgreSQL Editor : 
