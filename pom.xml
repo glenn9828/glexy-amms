@@ -25,7 +25,8 @@
 
 	<modules>
 		<module>core</module>
-		<module>elearning</module>		
+		<module>elearning</module>
+		<module>glexy</module>
 	</modules>
 
 	<build>
